@@ -1,0 +1,6 @@
+# Sensitive data - never commit
+accounts-*.json
+*.local.json
+*.log
+node_modules/
+/.hark-pool/
